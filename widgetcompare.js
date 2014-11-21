@@ -51,7 +51,6 @@
                .replace('[ORIGINEL]','')
                .replace('[originel]','')
                .replace('[Originel]','')
-               .replace('Publié par fabio à 19:00 Au', '')
                .replace(/´/g, "'");
                
          }         
