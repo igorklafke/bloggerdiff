@@ -24,8 +24,8 @@ Inserir antes:
 
 	<!-- comment out below if you have jQuery library loaded already -->
 	<script src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'/>
-	<script src='http://www.igorklafke.com/bloggerdiff/jsdiff.js'/>
-	<script src='http://www.igorklafke.com/bloggerdiff/widgetcompare.js'/>
+	<script src='http://www.igorklafke.com/bloggerdiff/javascripts/jsdiff.js'/>
+	<script src='http://www.igorklafke.com/bloggerdiff/javascripts/widgetcompare.js'/>
 	<script>
 	  // corrected post
 	  if($(&#39;#corrected_post&#39;).length &gt; 0){
